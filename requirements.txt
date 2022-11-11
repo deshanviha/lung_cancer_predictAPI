@@ -154,7 +154,6 @@ sacrebleu==2.0.0
 sacremoses==0.0.53
 schedule==1.1.0
 scikit-learn==1.0.2
-scipy==1.4.1
 seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
